@@ -10,4 +10,6 @@ BerryLoader is a modloader and modding framework for [Sokpop's](https://sokpop.c
 - [How to install BerryLoader & mods](https://github.com/BerryLoader/BerryLoader/wiki/Installing-BerryLoader-&-mods)
 - [How to get started with making mods](https://github.com/BerryLoader/BerryLoader/wiki/Creating-your-own-mod)
 
+If you have any questions, feel free to ask in the #stacklands-modding channel in [Sokpop's Discord server](https://discord.gg/sokpop)
+
 This project was made with love for the Stacklands community. 💖💜
