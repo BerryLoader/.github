@@ -3,7 +3,7 @@
 	<h1 align="center">BerryLoader</h1>
 </div>
 
-BerryLoader is a modloader and modding framework for [Sokpop's](https://sokpop.co/) hit card-based village builder: Stacklands!
+BerryLoader is a modding framework for [Sokpop's](https://sokpop.co/) hit card-based village builder: Stacklands!
 
 ## Guides:
 
